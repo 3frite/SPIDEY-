@@ -1,2 +1,3 @@
 - Fix du bug de crash aléatoire
-- Optimisation de la taille du fichier
+- Réduction de la taille du fichier
+- V2.1.2
