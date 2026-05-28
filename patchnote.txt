@@ -1,1 +1,1 @@
-
+- Fix du bug de crash aléatoire
