@@ -1,1 +1,2 @@
 - Fix du bug de crash aléatoire
+- Optimisation de la taille du fichier
