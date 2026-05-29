@@ -1,3 +1,5 @@
-- Fix du bug de crash aléatoire
-- Réduction de la taille du fichier
-- V2.1.3
+- Correctif de stabilité majeur (plus aucun crash au lancement).
+- Résolution du bug "missing key" empêchant parfois la connexion.
+- Amélioration de la fiabilité du mode Disguise pour toutes les applications (Steam, Chrome, etc).
+- Optimisations internes et correctifs d'interface mineurs.
+- v2.1.4
