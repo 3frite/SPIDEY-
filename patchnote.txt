@@ -1,5 +1,6 @@
-- Correctif de stabilité majeur (plus aucun crash au lancement).
-- Résolution du bug "missing key" empêchant parfois la connexion.
-- Amélioration de la fiabilité du mode Disguise pour toutes les applications (Steam, Chrome, etc).
-- Optimisations internes et correctifs d'interface mineurs.
-- v2.1.4
+V2.1.5
+- NOUVEAU module : FAKE LAG parfait pour prendre moin de kb quand besoin 
+- L'application s'ouvre desormais au premier plan par defaut 
+- Ajout de l'option demarrage en arriere-plan
+- Amelioration du nettoyage des traces anti scan echo, ocean.ac, etc...
+- Corrections diverses et stabilite generale
