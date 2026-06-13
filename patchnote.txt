@@ -1,6 +1,5 @@
-V2.1.5
+V2.2.2
 - NOUVEAU module : FAKE LAG parfait pour prendre moin de kb quand besoin 
-- L'application s'ouvre desormais au premier plan par defaut 
-- Ajout de l'option demarrage en arriere-plan
-- Amelioration du nettoyage des traces anti scan echo, ocean.ac, etc...
+- NOUVEAU module : HAVOC Macro pour les joueurs havoc
+- Ajout de l'option demarrage cacher
 - Corrections diverses et stabilite generale
