@@ -1,5 +1,3 @@
-V2.2.2
-- NOUVEAU module : FAKE LAG parfait pour prendre moin de kb quand besoin 
-- NOUVEAU module : HAVOC Macro pour les joueurs havoc
-- Ajout de l'option demarrage cacher
+V2.2.3
+- Mise à jour pour 1.26.30
 - Corrections diverses et stabilite generale
