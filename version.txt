@@ -1,2 +1,2 @@
-2.2.2
-https://cdn.discordapp.com/attachments/1502718078251827402/1515155863269015622/V2.2.2.exe?ex=6a33e91c&is=6a32979c&hm=3a4d21e625cb0a0b89de42b734ff422ea1d3e8fb398fd011f439bad43043fbbf&
+2.2.3
+https://github.com/3frite/SPIDEY-/releases/download/NEWVERSION/V2.2.3.exe
