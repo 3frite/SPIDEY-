@@ -1,3 +1,2 @@
-V2.2.3
-- Mise à jour pour 1.26.30
-- Corrections diverses et stabilite generale
+V2.2.8
+- Fix de bug diverses
