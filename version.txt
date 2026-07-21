@@ -1,2 +1,2 @@
-2.2.3
-https://github.com/3frite/SPIDEY-/releases/download/NEWVERSION/V2.2.3.exe
+2.2.8
+https://github.com/3frite/SPIDEY-/releases/download/2.2.8/2.2.8.exe
